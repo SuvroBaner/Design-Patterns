@@ -1,3 +1,5 @@
+# Courtsey : https://www.geeksforgeeks.org/python-design-patterns/?ref=lbp
+
 class FrenchLocalizer:
 	""" It simply returns the French version """
 	def __init__(self):
